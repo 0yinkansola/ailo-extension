@@ -1,0 +1,1 @@
+const s={fr:"French",es:"Spanish"},a={fr:"🇫🇷",es:"🇪🇸"},e=["fashion","music","sports","gaming","cooking","travel","comedy","technology","fitness","arts","education","lifestyle","news","animation","beauty"],t={isEnabled:!1,targetLanguage:"fr",lastUpdated:0};export{t as D,e as I,a as L,s as a};

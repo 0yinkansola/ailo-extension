@@ -1,0 +1,174 @@
+{
+  "fr": [
+    {
+      "title": "Le verlan est né dans les banlieues parisiennes",
+      "fact": "Le verlan — le mot 'l'envers' à l'envers — a émergé dans les banlieues parisiennes dans les années 1970-80. Des mots comme 'chelou' (louche), 'zarbi' (bizarre), et 'meuf' (femme) font maintenant partie du français standard.",
+      "category": "language",
+      "difficulty": "B1",
+      "emoji": "🗣️"
+    },
+    {
+      "title": "La France est le pays le plus visité du monde",
+      "fact": "Avec plus de 90 millions de touristes par an, la France est constamment classée première destination touristique mondiale. Paris seule accueille plus de visiteurs que n'importe quelle autre ville européenne.",
+      "category": "culture",
+      "difficulty": "A2",
+      "emoji": "🗼"
+    },
+    {
+      "title": "Stromae a conquis le monde entier",
+      "fact": "Paul Van Haver, alias Stromae, est un Belge qui a redéfini la musique francophone mondiale. Son album 'Racine Carrée' s'est vendu à 3 millions d'exemplaires et a transformé le son de la pop française pour toujours.",
+      "category": "music",
+      "difficulty": "A2",
+      "emoji": "🎵"
+    },
+    {
+      "title": "Le cinéma a été inventé en France",
+      "fact": "Les frères Lumière ont organisé la première projection publique payante de cinéma le 28 décembre 1895 à Paris. Le mot 'cinéma' vient du grec 'kinema' mais c'est la France qui a tout lancé.",
+      "category": "arts",
+      "difficulty": "A2",
+      "emoji": "🎬"
+    },
+    {
+      "title": "Le rap français est le plus écouté au monde après l'américain",
+      "fact": "La France est le deuxième marché mondial du rap en termes de streams. Des artistes comme Ninho, SCH et Hamza battent régulièrement des records de streaming — le rap français a développé son propre son distinctif.",
+      "category": "music",
+      "difficulty": "B1",
+      "emoji": "🎤"
+    },
+    {
+      "title": "Paris compte 1 800 boulangeries",
+      "fact": "Il y a environ 1 800 boulangeries à Paris, et les Français consomment 10 milliards de baguettes par an. La baguette est si centrale à la culture française qu'elle est inscrite au patrimoine immatériel de l'UNESCO depuis 2022.",
+      "category": "food",
+      "difficulty": "A2",
+      "emoji": "🥖"
+    },
+    {
+      "title": "Le français est parlé sur 5 continents",
+      "fact": "Le français est la langue officielle de 29 pays et est parlé par environ 300 millions de personnes sur tous les continents. C'est la deuxième langue la plus enseignée dans le monde après l'anglais.",
+      "category": "language",
+      "difficulty": "A1",
+      "emoji": "🌍"
+    },
+    {
+      "title": "La mode française domine le luxe mondial",
+      "fact": "LVMH, le groupe français derrière Louis Vuitton, Dior et Givenchy, est la plus grande entreprise de luxe au monde. La France génère 44% du chiffre d'affaires mondial du secteur du luxe personnel.",
+      "category": "fashion",
+      "difficulty": "B2",
+      "emoji": "👗"
+    },
+    {
+      "title": "Angèle a popularisé le féminisme dans le pop",
+      "fact": "La chanteuse belge Angèle est devenue l'une des voix féministes les plus influentes de la pop francophone. Son titre 'Balance ton quoi' (2019) est devenu l'hymne du mouvement #MeToo en France.",
+      "category": "music",
+      "difficulty": "B1",
+      "emoji": "✊"
+    },
+    {
+      "title": "Le Tour de France a 120 ans",
+      "fact": "La plus grande course cycliste du monde a été créée en 1903 par un journal sportif pour stimuler les ventes. Elle dure 3 semaines et couvre environ 3 500 km à travers la France.",
+      "category": "sports",
+      "difficulty": "A2",
+      "emoji": "🚴"
+    },
+    {
+      "title": "Paris a été libérée par une division franco-africaine",
+      "fact": "La 2e Division Blindée qui a libéré Paris en août 1944 comptait majoritairement des soldats africains — du Sénégal, du Maroc, d'Algérie et du Cameroun. Une histoire souvent oubliée mais fondamentale.",
+      "category": "history",
+      "difficulty": "C1",
+      "emoji": "🏴"
+    },
+    {
+      "title": "La langue des signes française a influencé l'ASL",
+      "fact": "La langue des signes américaine (ASL) est directement issue de la Langue des Signes Française (LSF). En 1817, l'éducateur Laurent Clerc a apporté la LSF aux États-Unis, créant la base de l'ASL moderne.",
+      "category": "language",
+      "difficulty": "B2",
+      "emoji": "🤟"
+    }
+  ],
+  "es": [
+    {
+      "title": "Bad Bunny es el artista más streamé au monde",
+      "fact": "El cantante puertorriqueño Bad Bunny fue el artista más escuchado en Spotify durante tres años consecutivos (2020, 2021, 2022) — la primera vez que un artista hispanohablante logró este récord global.",
+      "category": "music",
+      "difficulty": "A2",
+      "emoji": "🐰"
+    },
+    {
+      "title": "El español es la segunda lengua más hablada del mundo",
+      "fact": "El español es la lengua materna de aproximadamente 485 millones de personas y la segunda lengua más hablada del mundo. Se habla en 21 países como idioma oficial y tiene más hablantes nativos que el inglés.",
+      "category": "language",
+      "difficulty": "A1",
+      "emoji": "🌎"
+    },
+    {
+      "title": "Rosalía reinventó el flamenco para el mundo",
+      "fact": "La artista catalana Rosalía mezcló flamenco tradicional con R&B, trap y música electrónica para crear un sonido completamente nuevo. Ganó el Grammy Latino al Mejor Álbum del Año dos veces — un logro sin precedentes.",
+      "category": "music",
+      "difficulty": "B1",
+      "emoji": "💃"
+    },
+    {
+      "title": "La siesta no es un mito — es neurociencia",
+      "fact": "La siesta tradicional española tiene base científica: dormir entre 20-30 minutos después del almuerzo mejora la memoria, la creatividad y el rendimiento cognitivo. NASA estudió la siesta española para mejorar el rendimiento de sus astronautas.",
+      "category": "culture",
+      "difficulty": "B1",
+      "emoji": "😴"
+    },
+    {
+      "title": "El reggaeton nació en Puerto Rico",
+      "fact": "El reggaeton se desarrolló en Puerto Rico en los años 1990, mezclando dancehall jamaicano con hip-hop americano y ritmos latinoamericanos. Hoy es el género musical en español más consumido globalmente.",
+      "category": "music",
+      "difficulty": "A2",
+      "emoji": "🎵"
+    },
+    {
+      "title": "México tiene más pirámides que Egipto",
+      "fact": "México tiene más de 100,000 pirámides, la mayoría aún por excavar. La Gran Pirámide de Cholula es la estructura más grande por volumen en el mundo — más grande que la Gran Pirámide de Giza.",
+      "category": "history",
+      "difficulty": "B1",
+      "emoji": "🏛️"
+    },
+    {
+      "title": "El español tiene dos palabras para 'ser'",
+      "fact": "Ser y estar — ambas significan 'to be' en inglés, pero capturan una distinción filosófica profunda: ser expresa identidad permanente, estar expresa estados temporales. Es una de las características más fascinantes del español.",
+      "category": "language",
+      "difficulty": "A2",
+      "emoji": "🧠"
+    },
+    {
+      "title": "La Tomatina: una batalla de tomates con 120 años de historia",
+      "fact": "Cada año en Buñol, España, 20,000 personas se lanzan 130,000 kilos de tomates en La Tomatina. El origen exacto es desconocido, pero comenzó alrededor de 1945 y es ahora uno de los festivales más famosos del mundo.",
+      "category": "culture",
+      "difficulty": "A2",
+      "emoji": "🍅"
+    },
+    {
+      "title": "Colombia es el segundo país más biodiverso del mundo",
+      "fact": "Colombia alberga el 10% de toda la biodiversidad del planeta — más que cualquier otro país por kilómetro cuadrado. Es el único país de América del Sur con costas en el Océano Pacífico y el Caribe.",
+      "category": "geography",
+      "difficulty": "B1",
+      "emoji": "🌿"
+    },
+    {
+      "title": "El fútbol y la música son inseparables en latinoamérica",
+      "fact": "Las canciones de los mundiales de fútbol son fenómenos culturales únicos en América Latina. 'La Copa de la Vida' de Ricky Martin (1998) y 'Waka Waka' de Shakira (2010) se convirtieron en himnos globales que definen toda una época.",
+      "category": "music",
+      "difficulty": "B1",
+      "emoji": "⚽"
+    },
+    {
+      "title": "El Quijote es el libro más traducido después de la Biblia",
+      "fact": "Don Quijote de la Mancha (1605), de Miguel de Cervantes, es el libro de ficción más vendido de la historia y el texto más traducido del mundo después de la Biblia. Es también el origen de la palabra 'quijotesco'.",
+      "category": "literature",
+      "difficulty": "B2",
+      "emoji": "📚"
+    },
+    {
+      "title": "Argentina tiene más psicólogos per cápita que cualquier país",
+      "fact": "Buenos Aires es la ciudad con más psicólogos por habitante del mundo — hay 1 psicólogo por cada 186 personas. La psicoterapia es tan central en la cultura porteña que 'ir al psicólogo' es tan normal como ir al café.",
+      "category": "culture",
+      "difficulty": "C1",
+      "emoji": "🧠"
+    }
+  ]
+}

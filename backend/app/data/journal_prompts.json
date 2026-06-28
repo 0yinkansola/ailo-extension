@@ -1,0 +1,306 @@
+{
+  "fr": {
+    "A1": [
+      {
+        "id": "fr-a1-1",
+        "prompt": "Décris ta tenue parfaite pour aujourd'hui. Quelles couleurs tu portes?",
+        "english_hint": "Describe your perfect outfit for today. What colors are you wearing?",
+        "starter_phrase": "Aujourd'hui, je porte...",
+        "category": "fashion",
+        "interests": ["fashion", "lifestyle"]
+      },
+      {
+        "id": "fr-a1-2",
+        "prompt": "C'est quoi ta chanson préférée en ce moment? Pourquoi tu l'aimes?",
+        "english_hint": "What's your favorite song right now? Why do you like it?",
+        "starter_phrase": "Ma chanson préférée c'est...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "fr-a1-3",
+        "prompt": "Décris ton repas idéal. Qu'est-ce que tu manges et avec qui?",
+        "english_hint": "Describe your ideal meal. What are you eating and with whom?",
+        "starter_phrase": "Mon repas idéal c'est...",
+        "category": "lifestyle",
+        "interests": ["lifestyle", "cooking"]
+      },
+      {
+        "id": "fr-a1-4",
+        "prompt": "Nomme trois choses que tu aimes faire le weekend.",
+        "english_hint": "Name three things you love doing on weekends.",
+        "starter_phrase": "Le weekend j'aime...",
+        "category": "lifestyle",
+        "interests": ["lifestyle"]
+      }
+    ],
+    "A2": [
+      {
+        "id": "fr-a2-1",
+        "prompt": "Décris ta tenue idéale pour une soirée — style, couleurs, ambiance.",
+        "english_hint": "Describe your ideal outfit for a night out — style, colors, vibe.",
+        "starter_phrase": "Pour une soirée parfaite, je mettrais...",
+        "category": "fashion",
+        "interests": ["fashion", "lifestyle"]
+      },
+      {
+        "id": "fr-a2-2",
+        "prompt": "Quel type de musique représente le mieux ta personnalité? Pourquoi?",
+        "english_hint": "What type of music best represents your personality? Why?",
+        "starter_phrase": "La musique qui me représente le mieux c'est...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "fr-a2-3",
+        "prompt": "Décris ta ville idéale. Qu'est-ce qu'il y a? Comment c'est l'ambiance?",
+        "english_hint": "Describe your ideal city. What's there? What's the vibe like?",
+        "starter_phrase": "Ma ville idéale a...",
+        "category": "travel",
+        "interests": ["travel", "lifestyle"]
+      },
+      {
+        "id": "fr-a2-4",
+        "prompt": "C'est quoi ton artiste préféré en ce moment et pourquoi?",
+        "english_hint": "Who is your favorite artist right now and why?",
+        "starter_phrase": "En ce moment, mon artiste préféré c'est...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "fr-a2-5",
+        "prompt": "Décris une journée parfaite — du matin au soir. Où tu vas? Qu'est-ce que tu fais?",
+        "english_hint": "Describe a perfect day — from morning to evening. Where do you go? What do you do?",
+        "starter_phrase": "Ma journée parfaite commence par...",
+        "category": "lifestyle",
+        "interests": ["lifestyle"]
+      }
+    ],
+    "B1": [
+      {
+        "id": "fr-b1-1",
+        "prompt": "Comment les réseaux sociaux ont changé la façon dont on découvre la musique? C'est positif ou négatif selon toi?",
+        "english_hint": "How have social media changed the way we discover music? Is that positive or negative in your opinion?",
+        "starter_phrase": "Depuis l'arrivée des réseaux sociaux, la musique...",
+        "category": "music",
+        "interests": ["music", "technology"]
+      },
+      {
+        "id": "fr-b1-2",
+        "prompt": "Décris un vêtement ou un style vestimentaire qui représente qui tu es vraiment.",
+        "english_hint": "Describe a piece of clothing or a style that truly represents who you are.",
+        "starter_phrase": "Le vêtement qui me représente le mieux c'est...",
+        "category": "fashion",
+        "interests": ["fashion"]
+      },
+      {
+        "id": "fr-b1-3",
+        "prompt": "Si tu pouvais vivre dans n'importe quelle ville francophone, laquelle tu choisirais et pourquoi?",
+        "english_hint": "If you could live in any French-speaking city, which would you choose and why?",
+        "starter_phrase": "Si je pouvais vivre dans une ville francophone, je choisirais...",
+        "category": "travel",
+        "interests": ["travel", "lifestyle"]
+      },
+      {
+        "id": "fr-b1-4",
+        "prompt": "Parle d'un film ou d'une série qui t'a vraiment touché(e). Qu'est-ce que ça t'a appris sur la vie?",
+        "english_hint": "Talk about a film or series that really moved you. What did it teach you about life?",
+        "starter_phrase": "Le film / la série qui m'a le plus touché(e)...",
+        "category": "film",
+        "interests": ["arts", "animation"]
+      },
+      {
+        "id": "fr-b1-5",
+        "prompt": "Comment tu décrirais ton esthétique personnelle à quelqu'un qui ne te connaît pas?",
+        "english_hint": "How would you describe your personal aesthetic to someone who doesn't know you?",
+        "starter_phrase": "Mon esthétique personnelle est...",
+        "category": "lifestyle",
+        "interests": ["fashion", "lifestyle"]
+      }
+    ],
+    "B2": [
+      {
+        "id": "fr-b2-1",
+        "prompt": "Dans quelle mesure les artistes que tu écoutes influencent-ils ton identité? Est-ce que la musique peut définir qui on est?",
+        "english_hint": "To what extent do the artists you listen to influence your identity? Can music define who we are?",
+        "starter_phrase": "La musique influence mon identité parce que...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "fr-b2-2",
+        "prompt": "La mode peut-elle être une forme d'art sérieuse ou est-ce simplement du consumérisme? Défends ton point de vue.",
+        "english_hint": "Can fashion be a serious art form or is it simply consumerism? Defend your position.",
+        "starter_phrase": "Selon moi, la mode est / n'est pas un art parce que...",
+        "category": "fashion",
+        "interests": ["fashion", "arts"]
+      },
+      {
+        "id": "fr-b2-3",
+        "prompt": "Comment la culture d'un pays transparaît-elle dans sa musique populaire? Prends un exemple concret.",
+        "english_hint": "How does a country's culture show through in its popular music? Give a concrete example.",
+        "starter_phrase": "On peut voir la culture française dans sa musique à travers...",
+        "category": "culture",
+        "interests": ["music", "culture"]
+      }
+    ],
+    "C1": [
+      {
+        "id": "fr-c1-1",
+        "prompt": "L'esthétique de la mélancolie dans la musique française — pourquoi les artistes comme PNL, Lomepal ou Pomme semblent-ils trouver beauté dans la tristesse?",
+        "english_hint": "The aesthetic of melancholy in French music — why do artists like PNL, Lomepal or Pomme seem to find beauty in sadness?",
+        "starter_phrase": "La mélancolie dans la musique francophone reflète...",
+        "category": "music",
+        "interests": ["music", "arts"]
+      },
+      {
+        "id": "fr-c1-2",
+        "prompt": "En quoi la notion française de 'joie de vivre' contraste-t-elle avec le cynisme contemporain des réseaux sociaux?",
+        "english_hint": "How does the French notion of 'joie de vivre' contrast with the contemporary cynicism of social media?",
+        "starter_phrase": "La joie de vivre française et le cynisme des réseaux sociaux sont en tension parce que...",
+        "category": "culture",
+        "interests": ["lifestyle", "technology"]
+      }
+    ]
+  },
+  "es": {
+    "A1": [
+      {
+        "id": "es-a1-1",
+        "prompt": "¿Cómo es tu outfit favorito? Describe los colores y el estilo.",
+        "english_hint": "What is your favorite outfit? Describe the colors and style.",
+        "starter_phrase": "Mi outfit favorito es...",
+        "category": "fashion",
+        "interests": ["fashion", "lifestyle"]
+      },
+      {
+        "id": "es-a1-2",
+        "prompt": "¿Cuál es tu canción favorita ahora mismo? ¿Por qué te gusta?",
+        "english_hint": "What's your favorite song right now? Why do you like it?",
+        "starter_phrase": "Mi canción favorita es...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "es-a1-3",
+        "prompt": "Describe tu comida favorita. ¿Dónde la comes y con quién?",
+        "english_hint": "Describe your favorite food. Where do you eat it and with whom?",
+        "starter_phrase": "Mi comida favorita es...",
+        "category": "lifestyle",
+        "interests": ["lifestyle"]
+      }
+    ],
+    "A2": [
+      {
+        "id": "es-a2-1",
+        "prompt": "¿Cómo sería tu look perfecto para salir de noche? Describe el estilo y la actitud.",
+        "english_hint": "What would your perfect look be for a night out? Describe the style and attitude.",
+        "starter_phrase": "Para salir de noche, me pondría...",
+        "category": "fashion",
+        "interests": ["fashion", "lifestyle"]
+      },
+      {
+        "id": "es-a2-2",
+        "prompt": "¿Qué tipo de música te pone de buen humor? ¿Por qué?",
+        "english_hint": "What type of music puts you in a good mood? Why?",
+        "starter_phrase": "La música que me pone de buen humor es...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "es-a2-3",
+        "prompt": "Describe tu lugar favorito para relajarte. ¿Cómo es? ¿Qué haces allí?",
+        "english_hint": "Describe your favorite place to relax. What is it like? What do you do there?",
+        "starter_phrase": "Mi lugar favorito para relajarme es...",
+        "category": "lifestyle",
+        "interests": ["lifestyle"]
+      },
+      {
+        "id": "es-a2-4",
+        "prompt": "¿Quién es tu artista favorito y qué es lo que más te gusta de su música?",
+        "english_hint": "Who is your favorite artist and what do you like most about their music?",
+        "starter_phrase": "Mi artista favorito es... y lo que más me gusta de su música es...",
+        "category": "music",
+        "interests": ["music"]
+      }
+    ],
+    "B1": [
+      {
+        "id": "es-b1-1",
+        "prompt": "¿Cómo ha cambiado el reggaeton la imagen de la música latinoamericana en el mundo? ¿Es positivo o negativo?",
+        "english_hint": "How has reggaeton changed the image of Latin American music in the world? Is that positive or negative?",
+        "starter_phrase": "El reggaeton ha cambiado la música latinoamericana porque...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "es-b1-2",
+        "prompt": "¿Qué ropa o estilo te hace sentir más tú mismo/a? ¿Por qué la ropa importa?",
+        "english_hint": "What clothes or style make you feel most like yourself? Why does clothing matter?",
+        "starter_phrase": "Me siento más yo mismo/a cuando llevo...",
+        "category": "fashion",
+        "interests": ["fashion"]
+      },
+      {
+        "id": "es-b1-3",
+        "prompt": "Si pudieras vivir en cualquier ciudad de habla hispana, ¿cuál elegirías? ¿Por qué?",
+        "english_hint": "If you could live in any Spanish-speaking city, which would you choose? Why?",
+        "starter_phrase": "Si pudiera vivir en una ciudad hispanohablante, elegiría...",
+        "category": "travel",
+        "interests": ["travel"]
+      },
+      {
+        "id": "es-b1-4",
+        "prompt": "¿Cómo describes tu estética personal? ¿Qué dice de quién eres?",
+        "english_hint": "How would you describe your personal aesthetic? What does it say about who you are?",
+        "starter_phrase": "Mi estética personal es...",
+        "category": "lifestyle",
+        "interests": ["lifestyle", "fashion"]
+      }
+    ],
+    "B2": [
+      {
+        "id": "es-b2-1",
+        "prompt": "¿En qué medida los artistas que escuchas definen tu identidad? ¿Es auténtico o es simplemente una marca personal?",
+        "english_hint": "To what extent do the artists you listen to define your identity? Is it authentic or just personal branding?",
+        "starter_phrase": "Los artistas que escucho influyen en mi identidad porque...",
+        "category": "music",
+        "interests": ["music"]
+      },
+      {
+        "id": "es-b2-2",
+        "prompt": "¿Cómo refleja el lenguaje coloquial latinoamericano la diversidad cultural del continente? Pon ejemplos concretos.",
+        "english_hint": "How does Latin American colloquial language reflect the continent's cultural diversity? Give concrete examples.",
+        "starter_phrase": "El lenguaje coloquial latinoamericano refleja la diversidad cultural a través de...",
+        "category": "language",
+        "interests": ["education"]
+      },
+      {
+        "id": "es-b2-3",
+        "prompt": "¿Puede la moda ser una forma de resistencia cultural o política? Da un ejemplo de la historia de la moda hispanohablante.",
+        "english_hint": "Can fashion be a form of cultural or political resistance? Give an example from Spanish-speaking fashion history.",
+        "starter_phrase": "La moda puede ser resistencia porque...",
+        "category": "fashion",
+        "interests": ["fashion", "arts"]
+      }
+    ],
+    "C1": [
+      {
+        "id": "es-c1-1",
+        "prompt": "La 'tristeza alegre' del flamenco y la cumbia — ¿por qué la música latinoamericana e ibérica a menudo combina el dolor con el baile?",
+        "english_hint": "The 'happy sadness' of flamenco and cumbia — why does Latin American and Iberian music so often combine pain with dance?",
+        "starter_phrase": "La combinación de tristeza y alegría en la música ibérica y latinoamericana se explica por...",
+        "category": "music",
+        "interests": ["music", "culture"]
+      },
+      {
+        "id": "es-c1-2",
+        "prompt": "¿Cómo ha influido el capitalismo de plataformas digitales en la identidad cultural latinoamericana? ¿Homogeneización o diversificación?",
+        "english_hint": "How has digital platform capitalism influenced Latin American cultural identity? Homogenization or diversification?",
+        "starter_phrase": "El capitalismo de plataformas digitales ha transformado la identidad cultural latinoamericana al...",
+        "category": "technology",
+        "interests": ["technology", "culture"]
+      }
+    ]
+  }
+}

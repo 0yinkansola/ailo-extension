@@ -1,0 +1,249 @@
+{
+  "_comment": "Search terms are what a NATIVE speaker of that language types into YouTube — not what a language learner types. No 'apprendre', 'débutant', 'facile', 'principiante', 'aprender'. Six terms per topic so the query builder can sample 2 at random for variety.",
+
+  "fr": {
+    "fashion":    [
+      "mode france vlog",
+      "tenue du jour france",
+      "haul vêtements france",
+      "ootd france",
+      "tendances mode paris",
+      "style vestimentaire france"
+    ],
+    "music":      [
+      "rap français",
+      "musique française",
+      "chanson française",
+      "nouveauté musique france",
+      "top musique france",
+      "r&b france"
+    ],
+    "sports":     [
+      "ligue 1",
+      "equipe de france football",
+      "nba analyse france",
+      "basket france",
+      "sport france",
+      "foot france"
+    ],
+    "gaming":     [
+      "gaming france",
+      "gameplay commenté français",
+      "let's play français",
+      "stream gaming france",
+      "jeux vidéo france",
+      "gamer français"
+    ],
+    "cooking":    [
+      "recette de cuisine",
+      "cuisine maison",
+      "recette rapide",
+      "plat du jour",
+      "cuisine française",
+      "que cuisiner ce soir"
+    ],
+    "travel":     [
+      "vlog voyage france",
+      "road trip france",
+      "paris vlog",
+      "city trip france",
+      "découverte france",
+      "voyager en france"
+    ],
+    "comedy":     [
+      "humour france",
+      "sketch france",
+      "prank france",
+      "vidéo drôle france",
+      "comédie france",
+      "youtuber comique france"
+    ],
+    "technology": [
+      "tech france",
+      "test smartphone france",
+      "unboxing france",
+      "high tech france",
+      "review tech français",
+      "meilleur téléphone france"
+    ],
+    "fitness":    [
+      "sport maison france",
+      "musculation france",
+      "fitness france",
+      "entraînement maison",
+      "yoga france",
+      "programme sport france"
+    ],
+    "arts":       [
+      "dessin france",
+      "peinture france",
+      "artiste français",
+      "tuto dessin france",
+      "art numérique france",
+      "illustration france"
+    ],
+    "education":  [
+      "documentaire france",
+      "histoire france",
+      "vulgarisation science france",
+      "culture générale france",
+      "explication science france",
+      "philosophie france"
+    ],
+    "lifestyle":  [
+      "vlog quotidien france",
+      "journée type france",
+      "vie en france vlog",
+      "vlogger français",
+      "routine france vlog",
+      "life france"
+    ],
+    "news":       [
+      "actualité france",
+      "info france",
+      "journal france",
+      "nouvelles france",
+      "analyse politique france",
+      "débat france"
+    ],
+    "animation":  [
+      "dessin animé france",
+      "animation française",
+      "court métrage animé france",
+      "série animée france",
+      "youtuber animation france",
+      "animation 2D france"
+    ],
+    "beauty":     [
+      "routine beauté france",
+      "maquillage france",
+      "soin visage france",
+      "tuto maquillage france",
+      "skincare france",
+      "beauté france vlog"
+    ]
+  },
+
+  "es": {
+    "fashion":    [
+      "moda españa vlog",
+      "outfit del día españa",
+      "haul ropa españa",
+      "ootd españa",
+      "tendencias moda madrid",
+      "estilo españa"
+    ],
+    "music":      [
+      "reggaeton",
+      "música española",
+      "canción española",
+      "trap español",
+      "novedades música españa",
+      "top musica españa"
+    ],
+    "sports":     [
+      "la liga",
+      "selección española fútbol",
+      "nba análisis español",
+      "baloncesto españa",
+      "deporte españa",
+      "fútbol españa"
+    ],
+    "gaming":     [
+      "gaming español",
+      "gameplay comentado español",
+      "let's play español",
+      "stream gaming español",
+      "videojuegos españa",
+      "gamer español"
+    ],
+    "cooking":    [
+      "receta de cocina",
+      "cocina casera española",
+      "receta rápida española",
+      "plato del día españa",
+      "cocina española",
+      "qué cocinar hoy"
+    ],
+    "travel":     [
+      "vlog viaje españa",
+      "road trip españa",
+      "madrid vlog",
+      "city trip españa",
+      "descubriendo españa",
+      "viajar por españa"
+    ],
+    "comedy":     [
+      "humor español",
+      "sketch español",
+      "prank español",
+      "vídeo gracioso españa",
+      "comedia española",
+      "youtuber cómico españa"
+    ],
+    "technology": [
+      "tecnología españa",
+      "review smartphone español",
+      "unboxing español",
+      "high tech españa",
+      "review tech español",
+      "mejor móvil españa"
+    ],
+    "fitness":    [
+      "deporte en casa españa",
+      "musculación españa",
+      "fitness español",
+      "entrenamiento en casa",
+      "yoga español",
+      "programa deporte españa"
+    ],
+    "arts":       [
+      "dibujo españa",
+      "pintura españa",
+      "artista español",
+      "tutorial dibujo españa",
+      "arte digital españa",
+      "ilustración españa"
+    ],
+    "education":  [
+      "documental españa",
+      "historia españa",
+      "divulgación científica español",
+      "cultura general españa",
+      "ciencia explicada español",
+      "filosofía español"
+    ],
+    "lifestyle":  [
+      "vlog cotidiano españa",
+      "día a día españa",
+      "vida en españa vlog",
+      "vlogger español",
+      "rutina españa vlog",
+      "life en españa"
+    ],
+    "news":       [
+      "noticias españa",
+      "actualidad española",
+      "informativo españa",
+      "análisis político españa",
+      "debate españa",
+      "noticias hoy españa"
+    ],
+    "animation":  [
+      "dibujos animados españa",
+      "animación española",
+      "cortometraje animado españa",
+      "serie animada española",
+      "youtuber animación español",
+      "animación 2D español"
+    ],
+    "beauty":     [
+      "rutina de belleza españa",
+      "maquillaje españa",
+      "cuidado facial españa",
+      "tutorial maquillaje español",
+      "skincare español",
+      "belleza española vlog"
+    ]
+  }
+}

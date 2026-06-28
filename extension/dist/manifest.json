@@ -1,0 +1,67 @@
+{
+  "manifest_version": 3,
+  "name": "AILO – Language Immersion",
+  "version": "0.1.0",
+  "description": "Transform your YouTube feed into an immersive language learning experience.",
+  "oauth2": {
+    "client_id": "YOUR_OAUTH_CLIENT_ID.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/youtube.readonly"
+    ]
+  },
+  "permissions": [
+    "storage",
+    "identity",
+    "identity.email"
+  ],
+  "host_permissions": [
+    "https://www.youtube.com/*",
+    "https://www.googleapis.com/*",
+    "http://localhost:8001/*"
+  ],
+  "background": {
+    "service_worker": "service-worker-loader.js",
+    "type": "module"
+  },
+  "content_scripts": [
+    {
+      "js": [
+        "assets/index.tsx-loader-CwbwfOLp.js"
+      ],
+      "matches": [
+        "https://www.youtube.com/*"
+      ],
+      "css": [],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "matches": [
+        "https://www.youtube.com/*"
+      ],
+      "resources": [
+        "icons/*",
+        "*.css",
+        "assets/client-DXcH-vAE.js",
+        "assets/storage-BSUol-Bp.js",
+        "assets/types-7XErHrSA.js",
+        "assets/index.tsx-6JeIN2M6.js"
+      ],
+      "use_dynamic_url": false
+    }
+  ]
+}

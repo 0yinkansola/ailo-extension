@@ -1,0 +1,20 @@
+/* Injected into shadow DOM — fully isolated from YouTube's styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset all inherited YouTube styles at the shadow root boundary */
+:host {
+  all: initial;
+  display: block;
+  font-family: 'Inter', 'Roboto', system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Scrollbar inside feed */
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #3f3f3f; border-radius: 2px; }
