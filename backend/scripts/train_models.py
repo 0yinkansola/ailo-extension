@@ -33,7 +33,7 @@ except ImportError:
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
 _REPO = Path(__file__).parent.parent.parent
-_DATA = _REPO / "text files"
+_DATA = _REPO / "data"
 _OUT  = Path(__file__).parent.parent / "app" / "data" / "models"
 _OUT.mkdir(parents=True, exist_ok=True)
 
